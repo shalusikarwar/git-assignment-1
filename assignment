@@ -1,0 +1,34 @@
+
+shalu sikarwar@LAPTOP-RM8RO02P MINGW64 ~/Desktop/git repo (master)
+$ git version
+git version 2.25.1.windows.1
+
+shalu sikarwar@LAPTOP-RM8RO02P MINGW64 ~/Desktop/git repo (master)
+$ git init
+Initialized empty Git repository in C:/Users/shalu sikarwar/Desktop/git repo/.git/
+
+shalu sikarwar@LAPTOP-RM8RO02P MINGW64 ~/Desktop/git repo (master)
+$ git add .
+
+shalu sikarwar@LAPTOP-RM8RO02P MINGW64 ~/Desktop/git repo (master)
+$ git commit -m "add two files"
+[master (root-commit) 743c8f6] add two files
+ 2 files changed, 2 insertions(+)
+ create mode 100644 commit 1.txt
+ create mode 100644 commit 2.txt
+
+shalu sikarwar@LAPTOP-RM8RO02P MINGW64 ~/Desktop/git repo (master)
+$ git log
+commit 743c8f61a3019213ac5b94dad1cbc0105cc1cb02 (HEAD -> master)
+Author: shalu <dangishalu69@gmail.com>
+Date:   Fri Feb 28 14:29:13 2020 +0530
+
+    add two files
+
+shalu sikarwar@LAPTOP-RM8RO02P MINGW64 ~/Desktop/git repo (master)
+$ ^C
+
+shalu sikarwar@LAPTOP-RM8RO02P MINGW64 ~/Desktop/git repo (master)
+$
+
+
